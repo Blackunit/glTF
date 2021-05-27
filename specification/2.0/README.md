@@ -992,7 +992,7 @@ A mesh is instantiated by `node.mesh` property. The same mesh could be used by m
 A Morph Target is instanced within a node using:
 - The Morph Target referenced in the `mesh` property.
 - The Morph Target `weights` overriding the `weights` of the Morph Target referenced in the `mesh` property.
-The example below instatiates a Morph Target with non-default weights.
+The example below instantiates a Morph Target with non-default weights.
 
 ```json
 {
